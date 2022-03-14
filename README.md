@@ -1,7 +1,9 @@
 ### Olá, sou o Daniel Silva Ramos ✌
 
-Estou atuando na engenharia de dados desde janeiro de 2021.
-Utilizo ADF, ADB e Pyspark.
+Estou atuando com engenharia de dados desde janeiro de 2021.
+Trabalho com tecnologia desde 2019 na Ambev Tech, entrei como desenvolvedor C# e depois migrei para a área de dados.
+
+No meu dia a dia utilizo ADF, ADB e Pyspark.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dramos93&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
