@@ -1,4 +1,4 @@
-### Olá, sou o Daniel Silva Ramos 👋
+### Olá, sou o Daniel Silva Ramos ✌
 
 Estou atuando na engenharia de dados desde janeiro de 2021.
 Utilizo ADF, ADB e Pyspark.
